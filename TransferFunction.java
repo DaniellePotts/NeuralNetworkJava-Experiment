@@ -1,0 +1,1 @@
+enum TransferFunction{None, Sigmoid, Linear, Guassian, RationalSigmoid}
